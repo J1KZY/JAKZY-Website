@@ -215,7 +215,7 @@ function App() {
               <div className="shine" />
               <div className="cardTop"><span>JAKZY / 01</span><span>CREATOR</span></div>
               <div className="avatarBig">
-                <img src="/pic/jakzy.jpg" alt="Vuthy Lyheng" />
+                <img src="jakzy.jpg" alt="Vuthy Lyheng" />
               </div>
               <div className="cardName">JAKZY<span>.</span></div>
               <div className="cardReal">Vuthy Lyheng</div>
